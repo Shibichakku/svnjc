@@ -6,7 +6,7 @@ This page lists the various commands that are covered in this svnjc app. includi
 = API Guidelines  =
 == Add  ==
 *purpose* : to simulate "svn add" command using SVNKit Java Library    <br/>
-*External parameters*  :  (*)WC_Dir  <br/>
+*External parameters*  :  (*)WC_Dir (Current Working Directory) <br/>
 *Outputs*<br/>
 *as retrun value* : ---<br/>
 
